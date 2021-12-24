@@ -14016,7 +14016,7 @@ h3.titular-title { font-size: 2rem; }
 
 
 #gotoTop {
-	display: none;
+	/*display: none;*/
 	z-index: 599;
 	position: fixed;
 	width: 40px;
@@ -14043,7 +14043,7 @@ body:not(.device-touch) #gotoTop {
 
 .stretched #gotoTop { bottom: 80px; }
 
-#gotoTop:hover { background-color: #1ABC9C; }
+#gotoTop:hover { background-color: #6A61FF; }
 
 
 /* ----------------------------------------------------------------
